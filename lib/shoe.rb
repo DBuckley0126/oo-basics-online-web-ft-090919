@@ -10,4 +10,9 @@ class Shoe
   def condition= (shoe_condition)
     @condition = shoe_condition
   end
+
+  def cobble
+    @brand = "Nike"
+    @condition = "old"
+  end  
 end
