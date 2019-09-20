@@ -14,5 +14,5 @@ class Shoe
   def cobble
     @brand = "Nike"
     @condition = "old"
-  end  
+  end
 end
