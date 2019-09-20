@@ -7,5 +7,5 @@ class Shoe
     @brand = shoe_brand
   end
 
-  
+
 end
